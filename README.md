@@ -12,7 +12,7 @@
    - OS : CentOS 7.9
    - vCPU : 2
    - Memory : 4G
-   - Nic1 : nat
+   - Nic1 : nat <br>
        ip: 192.168.137.10/24
 <br>
 
@@ -20,7 +20,7 @@
    - OS : CentOS 7.9
    - vCPU : 1
    - Memory : 2G
-   - Nic1 : nat
+   - Nic1 : nat <br>
        ip: 192.168.137.11/24
 
 <br>
@@ -29,5 +29,5 @@
    - OS : CentOS 7.9
    - vCPU : 1
    - Memory : 2G
-   - Nic1 : nat
+   - Nic1 : nat <br>
        ip: 192.168.137.12/24
