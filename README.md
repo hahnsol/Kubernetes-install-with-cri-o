@@ -31,3 +31,8 @@
    - Memory : 2G
    - Nic1 : nat <br>
      &nbsp;&nbsp; ip: 192.168.137.12/24
+     
+<br>
+<br>
+
+과정은 WIKI를 참고해주세요
