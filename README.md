@@ -6,9 +6,28 @@
 
 1. HyperV 가상머신 3대 (Master node1, Worker node2)
 
+<br>
+
 2. Master node 1
    - OS : CentOS 7.9
-   - vCp  
+   - vCPU : 2
+   - Memory : 4G
+   - Nic1 : nat
+       ip: 192.168.137.10/24
+<br>
 
-- worker node 2
-- 
+3. Worker node 1
+   - OS : CentOS 7.9
+   - vCPU : 1
+   - Memory : 2G
+   - Nic1 : nat
+       ip: 192.168.137.11/24
+
+<br>
+
+4. Worker node 1
+   - OS : CentOS 7.9
+   - vCPU : 1
+   - Memory : 2G
+   - Nic1 : nat
+       ip: 192.168.137.12/24
