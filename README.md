@@ -13,7 +13,7 @@
    - vCPU : 2
    - Memory : 4G
    - Nic1 : nat <br>
-       ip: 192.168.137.10/24
+     &nbsp;&nbsp; ip: 192.168.137.10/24
 <br>
 
 3. Worker node 1
@@ -21,7 +21,7 @@
    - vCPU : 1
    - Memory : 2G
    - Nic1 : nat <br>
-       ip: 192.168.137.11/24
+     &nbsp;&nbsp; ip: 192.168.137.11/24
 
 <br>
 
@@ -30,4 +30,4 @@
    - vCPU : 1
    - Memory : 2G
    - Nic1 : nat <br>
-       ip: 192.168.137.12/24
+     &nbsp;&nbsp; ip: 192.168.137.12/24
