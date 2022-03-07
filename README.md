@@ -38,9 +38,9 @@
 * 버전
 
 1. cri-o : 1.20.6-7.2.el7
-2. kubeadm : 1.23.4-0                 
-3. kubectl : 1.23.4-0
-4. kubelet : 1.23.4-0
+2. kubeadm : 1.20.0-0                 
+3. kubectl : 1.20.0-0
+4. kubelet : 1.20.0-0
 
 <br>
 
